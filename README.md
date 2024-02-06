@@ -5,6 +5,6 @@ usage :
 
 git clone https://github.com/dev-munir/Dev-Munir-Tools
 
-cd munir
+cd Dev-Munir-Tools
 
 python2 munir.py 1.1.1.1 7777
