@@ -1,5 +1,5 @@
 # Dev-Munir-Tools
-This DDoS Is By Team Oc
+This DDoS Is By Munir
 
 usage :
 
